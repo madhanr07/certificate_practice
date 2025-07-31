@@ -1,2 +1,5 @@
 This file is to just get practice to the GitHub.
 This is an update.
+
+This is an external change in VScode. 
+Another change is made.
