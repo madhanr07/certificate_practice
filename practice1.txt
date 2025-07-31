@@ -3,5 +3,4 @@ This is an update.
 
 This is an external change in VScode. 
 Another change is made.
-
-Final change to confirm.
+Final change.
